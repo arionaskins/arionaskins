@@ -7,4 +7,4 @@ Bare with me, as some projects may still be in the process of completion :)<br>
 
 Feel free to reach out! :) -AA  <br>
 askins1@umd.edu |
-[Linkedin](https://www.linkedin.com/in/arionaskins2021/) | [Resume](https://go.umd.edu/arionaskins2021)
+[Linkedin](https://www.linkedin.com/in/arionaskins2021/) | [Resume](https://go.umd.edu/arion_askins_resume)
