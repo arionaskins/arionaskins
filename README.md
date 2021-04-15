@@ -1,6 +1,6 @@
 ### Hi there, I'm Arion! 👋<br><br>
 
-I'm currently learning... `Data Cleaning methods and Machine Learning;`
+I'm currently learning... `Data Cleaning methods and scikit-learn;`
 I use this Github to store my repositories to learn code and for personal projects.<br>
 Bare with me, as some projects may still be in the process of completion!<br>
 
